@@ -47,4 +47,4 @@ async def fix(ctx, *, text: str):
     else:
         await ctx.send('No grammar errors found!')
 
-bot.run('MTEzMDg5NjA5NTczNjc3MDcwMg.GBsx52.VoUhptcM2rq0qDvM4PL8ZWDL-QyB5xud1gHnP4')
+bot.run('your-discord-token-here')
